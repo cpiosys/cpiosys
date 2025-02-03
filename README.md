@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Cpio!  
 
-<!--
-**cpiosys/cpiosys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer & Software Engineer**  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+Hello! I am a fullstack and Discord bot developer specializing in **React** and **Python**. I create interactive web applications and custom bots with a focus on **functionality** and **user experience**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me  
+- **GitHub**: [CpioIV](https://github.com/CpioIV)  
+- **Email**: [tonotcpio.dev@gmail.com](mailto:tonotcpio.dev@gmail.com)  
+- **Twitter**: [@S5IFT0](https://twitter.com/S5IFT0)  
+- **Discord**: [Cpio#0001](https://discord.com/users/947159884917510224)  
+
+### 🛠 Tech Stack  
+- **Frontend**: React, TailwindCSS, HTML, CSS  
+- **Backend**: Python, FastAPI, Flask, Node.js  
+- **Databases**: MongoDB, PostgreSQL  
+- **Other**: Discord.py, WebSockets, Linux Server Management  
+
+### 🔥 Featured Project  
+🚔 **[Covert Bot](https://covertbot.xyz/)** – A feature-rich Discord bot with **ERLC integration**, advanced moderation, and customization tools.  
+
+---
+
+⭐ Feel free to check out my repositories and contribute!  
